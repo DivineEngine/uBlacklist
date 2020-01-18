@@ -1,3 +1,11 @@
+! Junk
+*://*.csdn.net/*
+*://www.kafan.cn/*
+
+! Content Farm
+*://*.kknews.cc/*
+*://*.read01.com/*
+
 ! Feeb
 *://*.64memo.com/*
 *://*.64tianwang.com/*
