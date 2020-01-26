@@ -1,10 +1,22 @@
 ! Junk
 *://*.csdn.net/*
-*://www.kafan.cn/*
 
 ! Content Farm
+*://*.23cpc.com/*
+*://*.ajpsp.com/*
+*://*.artez.org.cn/*
+*://*.cctsuzhou.cn/*
+*://*.cheliang.org/*
+*://*.copyan.com/*
+*://*.hbs163.com/*
+*://*.i-shuffle.com/*
+*://*.jeepxie.net/*
 *://*.kknews.cc/*
+*://*.mayibanchang.com.cn/*
+*://*.mh456.com/*
 *://*.read01.com/*
+*://*.win10xiazai.com/*
+*://www.kafan.cn/*
 
 ! Feeb
 *://*.64memo.com/*
