@@ -1,8 +1,7 @@
 ! Junk
 *://*.csdn.net/*
 *://baijiahao.baidu.com/*
-*://cloud.tencent.com/developer/ask/*
-*://cloud.tencent.com/developer/information/*
+*://cloud.tencent.com/developer/*
 *://www.kafan.cn/*
 *://yq.aliyun.com/*
 
@@ -57,6 +56,7 @@
 *://*.kknews.cc/*
 *://*.kxmylc26.com/*
 *://*.linghan840.com/*
+*://*.logphp.com/*
 *://*.lzwypj.com/*
 *://*.mayibanchang.com.cn/*
 *://*.mh456.com/*
@@ -105,12 +105,19 @@
 *://*.bjs.org/*
 *://*.china21.org/*
 *://*.chinaaffairs.org/*
+*://*.dafahao.com/*
 *://*.dalianmeng.org/*
 *://*.dongtaiwang.com/*
 *://*.epochtimes.*/*
 *://*.epochweekly.com/*
+*://*.falunaz.net/*
+*://*.falundafa.org.*/*
+*://*.falundafa.org/*
+*://*.falundafamuseum.org/*
+*://*.falungong.club/*
 *://*.fgmtv.org/*
 *://*.gongyiluntan.org/*
+*://*.hongzhi.li/*
 *://*.hrichina.org/*
 *://*.kanzhongguo.com/*
 *://*.mh4u.org/*
@@ -121,6 +128,7 @@
 *://*.renminbao.com/*
 *://*.rfa.org/*
 *://*.secretchina.com/*
+*://*.shenyun.com/*
 *://*.shenyunperformingarts.org/*
 *://*.shenzhoufilm.com/*
 *://*.soundofhope.org/*
@@ -131,7 +139,9 @@
 *://*.wolfax.com/*
 *://*.wujieliulan.com/*
 *://*.xinsheng.net/*
+*://*.yuanming.net/*
 *://*.zhengjian.org/*
+*://*.zhuanfl.com/*
 *://truthmoviegroup.wixsite.com/*
 
 ! C&J Marketing
