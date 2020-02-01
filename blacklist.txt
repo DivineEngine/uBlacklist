@@ -15,6 +15,7 @@
 *://*.8f5b.cn/*
 *://*.9646555.com/*
 *://*.achmeaintermediair.com/*
+*://*.agp777.com/*
 *://*.aisnsim.com/*
 *://*.ajpsp.com/*
 *://*.aliziarealestate.com/*
@@ -30,6 +31,7 @@
 *://*.cctsuzhou.cn/*
 *://*.cheliang.org/*
 *://*.classicalguitarandbeyond.com/*
+*://*.cnhaoren.com/*
 *://*.congjun519.com/*
 *://*.copyan.com/*
 *://*.culturecyclisme.com/*
@@ -39,10 +41,14 @@
 *://*.eiqingdao.cn/*
 *://*.essentialcarry.com/*
 *://*.fangbo000.com/*
+*://*.fariafoundation.com/*
 *://*.feishuang406.com/*
 *://*.freezerfriendapp.com/*
+*://*.gbm777.com/*
+*://*.gdcynymy.com/*
 *://*.gistfm.com/*
 *://*.goodtradelinesgoodcredit.com/*
+*://*.gotouya.com/*
 *://*.gxccnu.com/*
 *://*.hbs163.com/*
 *://*.huanqiao406.com/*
@@ -78,6 +84,7 @@
 *://*.si568.com/*
 *://*.sironamediasolutions.com/*
 *://*.slavadesigns.com/*
+*://*.snswhy.com/*
 *://*.social-media-outlet.com/*
 *://*.super4test.com/*
 *://*.supermobileqa.com/*
@@ -85,8 +92,11 @@
 *://*.thegoodlife247.com/*
 *://*.thehesedlove.com/*
 *://*.tianwei580.com/*
+*://*.tkglfj.com/*
 *://*.truffleexperts.com/*
 *://*.viptuigirl.com/*
+*://*.voidcc.com/*
+*://*.vzaftech.com/*
 *://*.wangspin.com/*
 *://*.win10xiazai.com/*
 *://*.www0208003.com/*
@@ -96,8 +106,13 @@
 *://*.zftmw.com/*
 *://*.zixuan648.com/*
 *://*.zqcruises.cn/*
+*://*.zqysit.com/*
+*://chanceseo.top/*
+*://e7fenxiao.com/*
 
 ! Feeb
+/epochtimes\.+/
+/falundafa\.+/
 *://*.64memo.com/*
 *://*.64tianwang.com/*
 *://*.aboluowang.com/*
@@ -108,11 +123,8 @@
 *://*.dafahao.com/*
 *://*.dalianmeng.org/*
 *://*.dongtaiwang.com/*
-*://*.epochtimes.*/*
 *://*.epochweekly.com/*
 *://*.falunaz.net/*
-*://*.falundafa.org.*/*
-*://*.falundafa.org/*
 *://*.falundafamuseum.org/*
 *://*.falungong.club/*
 *://*.fgmtv.org/*
@@ -123,6 +135,7 @@
 *://*.mh4u.org/*
 *://*.mhradio.org/*
 *://*.minghui.org/*
+*://*.ntdtv.com//*
 *://*.ogate.org/*
 *://*.open.com.hk/*
 *://*.renminbao.com/*
