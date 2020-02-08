@@ -167,6 +167,7 @@
 *://*.bjs.org/*
 *://*.china21.org/*
 *://*.chinaaffairs.org/*
+*://*.cwzg.cn/*
 *://*.dafahao.com/*
 *://*.dalianmeng.org/*
 *://*.dongtaiwang.com/*
@@ -202,6 +203,8 @@
 *://*.yuanming.net/*
 *://*.zhengjian.org/*
 *://*.zhuanfl.com/*
+*://ab-tc.com/*
+*://ne0matrix.com/*
 *://truthmoviegroup.wixsite.com/*
 
 ! C&J Marketing
