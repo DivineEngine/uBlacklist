@@ -1,11 +1,23 @@
 ! Junk
+*://*.chromeba.net/*
+*://*.codenong.com/*
 *://*.csdn.net/*
-*://www.baidu.com/*
+*://*.geek-share.com/*
+*://*.helplib.com/*
+*://*.itranslater.com/*
+*://*.jishuwen.com/*
+*://*.soinside.com/*
+*://*.tuicool.com/*
+*://*.voidcc.com/*
+*://*.voidcn.com/*
+*://androidcookie.com/*
 *://baijiahao.baidu.com/*
 *://cloud.tencent.com/developer/*
+*://codeday.me/*
+*://www.baidu.com/*
 *://www.kafan.cn/*
+*://xbuba.com/*
 *://yq.aliyun.com/*
-*://*.geek-share.com/*
 
 ! Content Farm
 *://*/so.php?s=*
@@ -26,6 +38,7 @@
 *://*.957971.vip/*
 *://*.963632.vip/*
 *://*.99seba.com/*
+*://*.ae2.cn/*
 *://*.aoweibang.com/*
 *://*.banshiqnr.com/*
 *://*.bbsmax.com/*
@@ -36,6 +49,7 @@
 *://*.caiwu2415.com/*
 *://*.calafx.site/*
 *://*.cctsuzhou.cn/*
+*://*.chachehao.com/*
 *://*.chengzhenwang.cn/*
 *://*.chifubao.icu/*
 *://*.chjblcu.cn/*
@@ -44,31 +58,43 @@
 *://*.crbr.cn.com/*
 *://*.cwqfls.cn/*
 *://*.dc120.com.cn/*
+*://*.dpdpf.com/*
 *://*.duibidhy.com/*
 *://*.easteyes.com.cn/*
 *://*.echodjb.com/*
 *://*.eoudu.com/*
 *://*.faliangkac.com/*
+*://*.fangjiebin.com/*
+*://*.fangjiebin.com/*
 *://*.fashaochl.com/*
+*://*.filt.cn/*
+*://*.fjhbg.cn/*
+*://*.fydqw.com/*
 *://*.gbyss.shop/*
 *://*.guankanwxo.com/*
 *://*.haokanld.tw/*
 *://*.hbtlbw.com/*
+*://*.hicaopan.com/*
 *://*.hotbak.net/*
 *://*.huaxiangcac.com/*
+*://*.hyhome.com.cn/*
+*://*.iruixun.cn/*
 *://*.jianghuernv.com/*
 *://*.kepadk.tw/*
 *://*.kgqhys.cn/*
 *://*.lanzhouyangsheng.com/*
 *://*.lfkfqe.xyz/*
+*://*.mayibanchang.com.cn/*
 *://*.mfxh.uk.com/*
 *://*.miinaa/*
 *://*.mtryer.com/*
+*://*.mushida.com/*
 *://*.myfreeonlineapp.com/*
 *://*.nintaus.net/*
 *://*.npww.cn.com/*
 *://*.ok168198.com/*
 *://*.oneho.cn/*
+*://*.onezuan.com/*
 *://*.oyxerh.xyz/*
 *://*.paxingcyi.com/*
 *://*.pinxia.cc/*
@@ -88,6 +114,7 @@
 *://*.uzdzni.xyz/*
 *://*.uzyouz.xyz/*
 *://*.voorp.com/*
+*://*.w0m.cn/*
 *://*.wendadaohang.com/*
 *://*.wukongwenda.cn/*
 *://*.xiaohuava.tw/*
@@ -115,11 +142,14 @@
 *://kaicen.cn/*
 *://kknews.cc/*
 *://qu02.com/*
+*://read01.com/*
 *://sbyjlma.cn/*
 *://scyhc.cn/*
 *://sxcpsjapp.org/*
 *://tufftargets.com/*
+*://uqseo.com/*
 *://uwguwf.xyz/*
+*://vwhm.net/*
 *://wntzx.cn/*
 
 ! Feeb
