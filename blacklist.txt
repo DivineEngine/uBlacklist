@@ -4,11 +4,12 @@
 
 ! Content Farm
 *://*/so.php?s=*
-/.+\.\d{6}\.vip/
-/.+\.g[a-z]{4}\.shop/
+/(.+\.)?\d{6}\.vip/
+/(.+\.)?g[a-z]{4}\.shop/
 
 *://*.0371cc.com/*
 *://*.0714news.com/*
+*://*.1c360.com/*
 *://*.23cpc.com/*
 *://*.2p8n6.site/*
 *://*.352322.com/*
@@ -30,6 +31,7 @@
 *://*.bdqxgw.com/*
 *://*.beimatou.com/*
 *://*.bengsiu.cn/*
+*://*.bjhaman.com.cn/*
 *://*.buscodepto.com/*
 *://*.caiwu2415.com/*
 *://*.calafx.site/*
@@ -64,7 +66,9 @@
 *://*.fjhbg.cn/*
 *://*.fybqq.com/*
 *://*.fydqw.com/*
+*://*.g0vip.com/*
 *://*.geek-share.com/*
+*://*.ggxttek.com/*
 *://*.guankanwxo.com/*
 *://*.gwxmey.xyz/*
 *://*.haokanld.tw/*
@@ -78,6 +82,8 @@
 *://*.huaxiangcac.com/*
 *://*.hyhome.com.cn/*
 *://*.iac-show.net.cn/*
+*://*.ibvqas.xyz/*
+*://*.ihfexpo.com/*
 *://*.iruixun.cn/*
 *://*.itranslater.com/*
 *://*.jianghuernv.com/*
@@ -88,15 +94,18 @@
 *://*.kgqhys.cn/*
 *://*.lanzhouyangsheng.com/*
 *://*.lfkfqe.xyz/*
+*://*.lmzbma.xyz/*
 *://*.mayibanchang.com.cn/*
 *://*.mfxh.uk.com/*
 *://*.miinaa/*
 *://*.misuland.com/*
 *://*.mk369.com/*
+*://*.mrupun.xyz/*
 *://*.mtryer.com/*
 *://*.mushida.com/*
 *://*.myfreeonlineapp.com/*
 *://*.mygjs.com/*
+*://*.ngebmn.com/*
 *://*.nike588.com/*
 *://*.nintaus.net/*
 *://*.njdkzyz.site/*
@@ -112,6 +121,7 @@
 *://*.philscitech.org/*
 *://*.pinxia.cc/*
 *://*.pxzbme.xyz/*
+*://*.qdxkdxdl.com/*
 *://*.qfjhb.cn/*
 *://*.qingwajd.tw/*
 *://*.readercache.com/*
@@ -131,9 +141,11 @@
 *://*.tuicool.com/*
 *://*.tvi-in.com/*
 *://*.txfepmi.site/*
+*://*.uchpla.xyz/*
 *://*.uucan.cn/*
 *://*.uzdzni.xyz/*
 *://*.uzyouz.xyz/*
+*://*.vkgmza.xyz/*
 *://*.voidcc.com/*
 *://*.voidcn.com/*
 *://*.voorp.com/*
@@ -150,9 +162,11 @@
 *://*.xpeoqd.xyz/*
 *://*.xuehaoba.com/*
 *://*.yfln.cn.com/*
+*://*.yna99.com/*
 *://*.yreinz.xyz/*
 *://*.yuanfacn.com/*
 *://*.yunjiale.net/*
+*://*.yxjtzx.com/*
 *://*.zantongolu.com/*
 *://*.zhenbo.org/*
 *://*.zhetiaohe.com/*
@@ -184,6 +198,7 @@
 *://ktdn.uk.com/*
 *://maisui1.com/*
 *://my7475.com/*
+*://onegqt.xyz/*
 *://prckjk.xyz/*
 *://ptaga.com/*
 *://qastack.cn/*
