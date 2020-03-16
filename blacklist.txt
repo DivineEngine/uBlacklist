@@ -44,6 +44,7 @@
 *://*.chuifenggyi.com/*
 *://*.chyy.cn.com/*
 *://*.cmmn.org/*
+*://*.codebug.vip/*
 *://*.codenong.com/*
 *://*.copyan.com/*
 *://*.crbr.cn.com/*
@@ -92,6 +93,7 @@
 *://*.jswedu.com/*
 *://*.kepadk.tw/*
 *://*.kgqhys.cn/*
+*://*.kxxzz.net/*
 *://*.lanzhouyangsheng.com/*
 *://*.lfkfqe.xyz/*
 *://*.lmzbma.xyz/*
@@ -162,6 +164,7 @@
 *://*.xpeoqd.xyz/*
 *://*.xuehaoba.com/*
 *://*.yfln.cn.com/*
+*://*.yiyult.com/*
 *://*.yna99.com/*
 *://*.yreinz.xyz/*
 *://*.yuanfacn.com/*
@@ -184,9 +187,11 @@
 *://baijiahao.baidu.com/*
 *://bdcp39.com/*
 *://bypw.uk.com/*
+*://chubuntu.com/*
 *://cloud.tencent.com/developer/*
 *://codeday.me/*
 *://copyan.com/*
+*://dacongyun.com/*
 *://damingba.com/*
 *://dntxw.com/*
 *://emdsan.xyz/*
@@ -197,6 +202,7 @@
 *://kknews.cc/*
 *://ktdn.uk.com/*
 *://maisui1.com/*
+*://mlog.club/*
 *://my7475.com/*
 *://onegqt.xyz/*
 *://prckjk.xyz/*
@@ -207,8 +213,10 @@
 *://sbyjlma.cn/*
 *://scyhc.cn/*
 *://shenzhenxw.net/*
+*://stackoom.com/*
 *://sxcpsjapp.org/*
 *://tufftargets.com/*
+*://ubuntuqa.com/*
 *://uqseo.com/*
 *://uwguwf.xyz/*
 *://vwhm.net/*
