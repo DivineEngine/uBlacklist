@@ -8,6 +8,7 @@
 /(.+\.)?g[a-z]{4}\.shop/
 
 *://*.0371cc.com/*
+*://*.0592pet.cn/*
 *://*.0714news.com/*
 *://*.1c360.com/*
 *://*.23cpc.com/*
@@ -98,6 +99,7 @@
 *://*.lfkfqe.xyz/*
 *://*.lmzbma.xyz/*
 *://*.mayibanchang.com.cn/*
+*://*.meilele.com/*
 *://*.mfxh.uk.com/*
 *://*.miinaa/*
 *://*.misuland.com/*
@@ -161,6 +163,7 @@
 *://*.xin120.cn/*
 *://*.xin25.cn/*
 *://*.xinhexinli.com/*
+*://*.xinzhuguan.com/*
 *://*.xpeoqd.xyz/*
 *://*.xuehaoba.com/*
 *://*.yfln.cn.com/*
@@ -170,6 +173,7 @@
 *://*.yuanfacn.com/*
 *://*.yunjiale.net/*
 *://*.yxjtzx.com/*
+*://*.z8l.net/*
 *://*.zantongolu.com/*
 *://*.zhenbo.org/*
 *://*.zhetiaohe.com/*
@@ -184,6 +188,7 @@
 *://4xpod.com/*
 *://androidcookie.com/*
 *://artez.org.cn/*
+*://badt.tw/*
 *://baijiahao.baidu.com/*
 *://bdcp39.com/*
 *://bypw.uk.com/*
@@ -274,7 +279,9 @@
 *://*.yuanming.net/*
 *://*.zhengjian.org/*
 *://*.zhuanfl.com/*
+*://*.zhuichaguoji.org/*
 *://ab-tc.com/*
+*://lifetimeuscn.com/*
 *://ne0matrix.com/*
 *://truthmoviegroup.wixsite.com/*
 
