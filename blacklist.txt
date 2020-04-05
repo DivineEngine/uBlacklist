@@ -17,12 +17,14 @@
 *://*.3li.cc/*
 *://*.51ttxue.com/*
 *://*.6tuba.com/*
+*://*.79432.com/*
 *://*.863201.uk.com/*
 *://*.95408.com/*
 *://*.96weixin.com/*
 *://*.99seba.com/*
 *://*.ae2.cn/*
 *://*.aiqle.com/*
+*://*.ajpsp.com/*
 *://*.aoweibang.com/*
 *://*.artez.org.cn/*
 *://*.asyeda.site/*
@@ -155,7 +157,9 @@
 *://*.voorp.com/*
 *://*.w0m.cn/*
 *://*.wendadaohang.com/*
+*://*.wesiedu.com/*
 *://*.wukongwenda.cn/*
+*://*.www66444.com.cn/*
 *://*.wxspp.com/*
 *://*.wzpf.org/*
 *://*.xiaohuava.tw/*
@@ -180,10 +184,13 @@
 *://*.zhetiaohe.com/*
 *://*.zhujialks.com/*
 *://*.zhuyibzs.com/*
+*://*.znzyw.com/*
 *://*.zuchea.com/*
 *://*.zuoyouetv.com/*
 *://*.zwvoip.net/*
 *://*.zxhdw.com/*
+*://*.zybbangw.com/*
+*://252yy.net/*
 *://4563.org/*
 *://4xpod.com/*
 *://androidcookie.com/*
@@ -220,6 +227,7 @@
 *://shenzhenxw.net/*
 *://stackoom.com/*
 *://sxcpsjapp.org/*
+*://tfnnum.com/*
 *://tufftargets.com/*
 *://ubuntuqa.com/*
 *://uqseo.com/*
