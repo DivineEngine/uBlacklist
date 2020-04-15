@@ -7,9 +7,11 @@
 /(.+\.)?\d{6}\.vip/
 /(.+\.)?g[a-z]{4}\.shop/
 
+*://*.029xawjyy.com/*
 *://*.0371cc.com/*
 *://*.0592pet.cn/*
 *://*.0714news.com/*
+*://*.17qq.com/*
 *://*.1c360.com/*
 *://*.23cpc.com/*
 *://*.2p8n6.site/*
@@ -55,6 +57,7 @@
 *://*.dc120.com.cn/*
 *://*.dddl0.com/*
 *://*.ddhyl.cn/*
+*://*.dlkjlp.com/*
 *://*.dofe.com.cn/*
 *://*.dpdpf.com/*
 *://*.duibidhy.com/*
@@ -78,8 +81,10 @@
 *://*.haokanld.tw/*
 *://*.hbjlp.com/*
 *://*.hbtlbw.com/*
+*://*.hddpm.cn/*
 *://*.helplib.com/*
 *://*.her15.com/*
+*://*.hhzjkx.cn/*
 *://*.hicaopan.com/*
 *://*.hotbak.net/*
 *://*.hszw.org/*
@@ -94,6 +99,7 @@
 *://*.jishuwen.com/*
 *://*.joci.net/*
 *://*.jswedu.com/*
+*://*.kaimalo.com/*
 *://*.kepadk.tw/*
 *://*.kgqhys.cn/*
 *://*.kxxzz.net/*
@@ -141,6 +147,8 @@
 *://*.systemcity.cn/*
 *://*.sywq119.com/*
 *://*.tangwangjj.com/*
+*://*.tongfengqu.com/*
+*://*.toutiaobet.com/*
 *://*.tqhnet.com/*
 *://*.trust1688.com/*
 *://*.tudlp.org/*
@@ -168,6 +176,7 @@
 *://*.xin25.cn/*
 *://*.xinhexinli.com/*
 *://*.xinzhuguan.com/*
+*://*.xli8.cn/*
 *://*.xpeoqd.xyz/*
 *://*.xuehaoba.com/*
 *://*.yfln.cn.com/*
@@ -182,6 +191,7 @@
 *://*.zhenbo.org/*
 *://*.zhetiaohe.com/*
 *://*.zhetiaohe.com/*
+*://*.zhipanyou.com/*
 *://*.zhujialks.com/*
 *://*.zhuyibzs.com/*
 *://*.znzyw.com/*
