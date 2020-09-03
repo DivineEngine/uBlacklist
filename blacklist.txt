@@ -9,14 +9,19 @@
 
 *://*.029xawjyy.com/*
 *://*.0371cc.com/*
+*://*.0533fc.net/*
 *://*.0592pet.cn/*
 *://*.0714news.com/*
+*://*.09vv.cn/*
 *://*.17qq.com/*
 *://*.1c360.com/*
 *://*.23cpc.com/*
 *://*.2p8n6.site/*
+*://*.329329.com/*
 *://*.352322.com/*
 *://*.3li.cc/*
+*://*.51dongshi.com/*
+*://*.51dxzy.com/*
 *://*.51ttxue.com/*
 *://*.6tuba.com/*
 *://*.79432.com/*
@@ -71,6 +76,7 @@
 *://*.ffe94.com/*
 *://*.filt.cn/*
 *://*.fjhbg.cn/*
+*://*.fuyingdq.com/*
 *://*.fybqq.com/*
 *://*.fydqw.com/*
 *://*.g0vip.com/*
@@ -95,6 +101,7 @@
 *://*.ihfexpo.com/*
 *://*.iruixun.cn/*
 *://*.itranslater.com/*
+*://*.jcabc.cn/*
 *://*.jianghuernv.com/*
 *://*.jishuwen.com/*
 *://*.joci.net/*
@@ -115,8 +122,10 @@
 *://*.mrupun.xyz/*
 *://*.mtryer.com/*
 *://*.mushida.com/*
+*://*.mydigit.cn/*
 *://*.myfreeonlineapp.com/*
 *://*.mygjs.com/*
+*://*.nbyoho.com/*
 *://*.ngebmn.com/*
 *://*.nike588.com/*
 *://*.nintaus.net/*
@@ -143,6 +152,9 @@
 *://*.rszg.cn.com/*
 *://*.ryankgrow.com/*
 *://*.shangwuvi.tw/*
+*://*.shjdfd.com/*
+*://*.shxy888.com/*
+*://*.sldfc.cn/*
 *://*.soinside.com/*
 *://*.systemcity.cn/*
 *://*.sywq119.com/*
@@ -189,6 +201,7 @@
 *://*.z8l.net/*
 *://*.zantongolu.com/*
 *://*.zhenbo.org/*
+*://*.zhengrongshuo.com/*
 *://*.zhetiaohe.com/*
 *://*.zhetiaohe.com/*
 *://*.zhipanyou.com/*
@@ -209,6 +222,7 @@
 *://baijiahao.baidu.com/*
 *://bdcp39.com/*
 *://bypw.uk.com/*
+*://chaifeng.com/*
 *://chubuntu.com/*
 *://cloud.tencent.com/developer/*
 *://codeday.me/*
@@ -218,6 +232,7 @@
 *://dntxw.com/*
 *://emdsan.xyz/*
 *://gundvd.com/*
+*://hejxyz.com/*
 *://hyhome.com.cn/*
 *://jisufeiting.org/*
 *://kaicen.cn/*
@@ -234,6 +249,7 @@
 *://read01.com/*
 *://sbyjlma.cn/*
 *://scyhc.cn/*
+*://seeres.com/*
 *://shenzhenxw.net/*
 *://stackoom.com/*
 *://sxcpsjapp.org/*
@@ -246,10 +262,13 @@
 *://wntzx.cn/*
 *://wppaeh.xyz/*
 *://www.kafan.cn/*
+*://www.pai-hang-bang.com/*
+*://www.shxy888.com/*
 *://xbuba.com/*
 *://xjx1.com/*
 *://xuesw.net/*
 *://yq.aliyun.com/*
+*://yu72.com/*
 
 ! Feeb
 /epochtimes\.+/
