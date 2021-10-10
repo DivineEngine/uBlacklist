@@ -4,25 +4,46 @@
 
 ! Content Farm
 title/小.(百科|知识)网/
-*://www.kafan.cn/*
-*://www.aliyun.com/sswd/*
-*://cloud.tencent.com/developer/*
-*://www.huaweicloud.com/theme/*
-*://kknews.cc/*
 *://*.da-quan.net/*
+*://*.hotbak.net*
+*://*.pai-hang-bang.com/*
+*://cloud.tencent.com/developer/*
+*://kknews.cc/*
 *://pai-hang-bang.com/*
 *://read01.com/*
+*://www.aliyun.com/sswd/*
+*://www.huaweicloud.com/theme/*
+*://www.kafan.cn/*
 
-*://*.shoeku.com/*
-*://hyk0751.com/*
 *://*.5a3q.com/*
+*://*.bamuyi.com/*
+*://*.codenong.com/*
+*://*.helplib.com/*
+*://*.jishuwen.com/*
+*://*.penzai.com/*
+*://*.philwoods.me/*
+*://*.shoeku.com/*
+*://*.soinside.com/*
+*://*.systemcity.cn/*
+*://*.thinbug.com/*
+*://*.voidcc.com/*
+*://*.voidcn.com/*
+*://*.voorp.com/*
 *://373524.com/*
+*://androidcookie.com/*
+*://codeday.me/*
+*://hyk0751.com/*
+*://hziho.com/*
+*://itranslater.com/*
+*://mincoon.com/*
+*://qastack.cn/*
+*://qroutinepanic.com/*
+*://stackoom.com/*
 *://tujiebar.com/*
+*://weisearch.cc/*
+*://xbuba.com/*
 *://xinsearch.cc/*
 *://zxsou.cc/*
-*://weisearch.cc/*
-*://*.philwoods.me/*
-*://*.systemcity.cn/*
 
 ! Feeb
 /epochtimes\.+/
