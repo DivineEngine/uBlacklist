@@ -6,7 +6,7 @@ uBlacklist 是一个阻止特定网站出现在 Google 搜索结果中的浏览�
 
 ## 下载 uBlacklist
 
-[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/) | [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/) / [Safari](https://apps.apple.com/app/apple-store/id1547912640) / [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
 
 ## 如何订阅
 
