@@ -11,7 +11,7 @@ title/小.(百科|知识)网/
 *://www.aliyun.com/sswd/*
 *://www.huaweicloud.com/theme/*
 *://www.kafan.cn/*
-*://*.z.sogou.com/*
+*://z.sogou.com/*
 
 *://*.07yue.com/*
 *://*.268382.com/*
@@ -32,16 +32,20 @@ title/小.(百科|知识)网/
 *://*.aasou.cc/*
 *://*.abcsou.cc/*
 *://*.aiznh.com/*
+*://*.amww.cc/*
 *://*.androidcookie.com/*
 *://*.anysearch.cc/*
+*://*.atpp.cc/*
 *://*.b22w.cn/*
 *://*.baike6.com/*
 *://*.bajiaoyingshi.com/*
 *://*.bamuyi.com/*
 *://*.bbsmax.com/*
 *://*.bees.pub/*
+*://*.bestsou.cc/*
 *://*.bianchengquan.com/*
 *://*.bjcvc.com.cn/*
+*://*.bmnn.cc/*
 *://*.bossnet.com.cn/*
 *://*.bubuko.com/*
 *://*.bugelun.com/*
@@ -77,6 +81,7 @@ title/小.(百科|知识)网/
 *://*.dafx.cc/*
 *://*.daimajiaoliu.com/*
 *://*.daoshengshu.com/*
+*://*.dapg.cc/*
 *://*.da-quan.net/*
 *://*.dasearch.cc/*
 *://*.dazhuanlan.com/*
@@ -101,6 +106,7 @@ title/小.(百科|知识)网/
 *://*.etbot.net/*
 *://*.eyewated.com/*
 *://*.fazhiyanjiu.cn/*
+*://*.fepp.cc/*
 *://*.flyzyblog.net/*
 *://*.fwqzdm.com/*
 *://*.fydqw.com/*
@@ -109,6 +115,7 @@ title/小.(百科|知识)网/
 *://*.gaoyongboke.com/*
 *://*.gh-2.net/*
 *://*.git2get.com/*
+*://*.gitanswer.com/*
 *://*.guizhouxiaochi123.com/*
 *://*.gysywood.com/*
 *://*.gzchaxun.com/*
@@ -124,6 +131,7 @@ title/小.(百科|知识)网/
 *://*.hostzxw.com/*
 *://*.hotbak.net*
 *://*.hotbgm.com/*
+*://*.htmlwdw.com/*
 *://*.huiss.cc/*
 *://*.hyk0751.com/*
 *://*.hziho.com/*
@@ -161,6 +169,8 @@ title/小.(百科|知识)网/
 *://*.linksou.cc/*
 *://*.locks.wiki/*
 *://*.longxinghotel.cn/*
+*://*.looksearch.cc/*
+*://*.m.hljbwjf.com/*
 *://*.machbbs.com/*
 *://*.mincoon.com/*
 *://*.moe.am/*
@@ -171,12 +181,14 @@ title/小.(百科|知识)网/
 *://*.needmorefood.com/*
 *://*.nfrmate.com/*
 *://*.niul.net/*
+*://*.nksou.cc/*
 *://*.notesearch.cc/*
 *://*.nwuja.com/*
 *://*.p3yk.com/*
 *://*.pachotel.com/*
 *://*.pai-hang-bang.com/*
 *://*.pc-daily.com/*
+*://*.pctantao.com/*
 *://*.penzai.com/*
 *://*.philwoods.me/*
 *://*.pianshen.com/*
@@ -184,6 +196,7 @@ title/小.(百科|知识)网/
 *://*.ppfocus.com/*
 *://*.programmer.group/*
 *://*.programminghunter.com/*
+*://*.pwpc.cc/*
 *://*.qastack.cn/*
 *://*.qche.org/*
 *://*.qdmana.com/*
@@ -195,6 +208,7 @@ title/小.(百科|知识)网/
 *://*.rechigroup.com/*
 *://*.runxinzhi.com/*
 *://*.rutrut.eu/*
+*://*.rxpnb.fun/*
 *://*.seospt.com/*
 *://*.sf024.com/*
 *://*.shangmayuan.com/*
@@ -231,6 +245,7 @@ title/小.(百科|知识)网/
 *://*.vxyb.cn/*
 *://*.wasou.cc/*
 *://*.websou.cc/*
+*://*.weifx.cc/*
 *://*.weisearch.cc/*
 *://*.wenda123.org/*
 *://*.wenjiangs.com/*
@@ -241,6 +256,9 @@ title/小.(百科|知识)网/
 *://*.wj458.com/*
 *://*.wsearch.cc/*
 *://*.wtsearch.cc/*
+*://*.www.709xs.com/*
+*://*.www.k90e.com/*
+*://*.www.leyijc.com/*
 *://*.www.smf10.com/*
 *://*.www.xknote.com/*
 *://*.xa8.net/*
@@ -254,6 +272,7 @@ title/小.(百科|知识)网/
 *://*.xjqy.org/*
 *://*.yangmao.info/*
 *://*.yhbearing.net/*
+*://*.youfx.cc/*
 *://*.yousearch.cc/*
 *://*.yues.org/*
 *://*.yuucee.com/*
