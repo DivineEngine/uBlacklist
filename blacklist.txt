@@ -1,4 +1,5 @@
 ! Junk
+*://m.toutiao.com/*
 *://www.baidu.com/*
 *://*.csdn.net/*
 
@@ -7,6 +8,7 @@ title/小.(百科|知识)网/
 *://cloud.tencent.com/developer/*
 *://cn.aliyun.com/ss/*
 *://cn.aliyun.com/sswm/*
+*://developer.aliyun.com/ask/*
 *://juejin.cn/s/*
 *://www.aliyun.com/sswd/*
 *://www.huaweicloud.com/theme/*
@@ -14,20 +16,28 @@ title/小.(百科|知识)网/
 *://z.sogou.com/*
 
 *://*.07yue.com/*
+*://*.1377003.com/*
 *://*.268382.com/*
 *://*.35wed.com/*
 *://*.373406.com/*
 *://*.373524.com/*
+*://*.3955013.com/*
+*://*.3997025.com/*
+*://*.3pppys.com/*
 *://*.4563.org/*
 *://*.4k8k.xyz/*
 *://*.521253.com/*
 *://*.52huiyijia.com/*
 *://*.5a3q.com/*
 *://*.5yun.org/*
+*://*.63458cp.com/*
+*://*.6532088.com/*
 *://*.68shu.cn/*
 *://*.6do.news/*
+*://*.7511156.com/*
 *://*.7661551.com/*
 *://*.91ai.net/*
+*://*.985ys.com/*
 *://*.a1fz.com/*
 *://*.aasou.cc/*
 *://*.abcsou.cc/*
@@ -85,10 +95,13 @@ title/小.(百科|知识)网/
 *://*.da-quan.net/*
 *://*.dasearch.cc/*
 *://*.dazhuanlan.com/*
+*://*.dcep676.com/*
 *://*.dditblog.com/*
 *://*.ddpei.com/*
 *://*.ddxinwen.com/*
 *://*.developpaper.com/*
+*://*.dfkre.com/*
+*://*.dfskw.top/*
 *://*.dkxuanye.cn/*
 *://*.dljfr.com/*
 *://*.docway.net/*
@@ -102,17 +115,21 @@ title/小.(百科|知识)网/
 *://*.editcode.net/*
 *://*.eeq8.com/*
 *://*.eliveint.com/*
+*://*.ergie.top/*
 *://*.erzet.cc/*
 *://*.etbot.net/*
 *://*.eyewated.com/*
 *://*.fazhiyanjiu.cn/*
+*://*.fdf42.com/*
 *://*.fepp.cc/*
 *://*.flyzyblog.net/*
+*://*.fuwuqiceping.com/*
 *://*.fwqzdm.com/*
 *://*.fydqw.com/*
 *://*.g408.com/*
 *://*.gameboys.net/*
 *://*.gaoyongboke.com/*
+*://*.getit01.com/*
 *://*.gh-2.net/*
 *://*.git2get.com/*
 *://*.gitanswer.com/*
@@ -127,6 +144,7 @@ title/小.(百科|知识)网/
 *://*.helplib.com/*
 *://*.hezhisw.com/*
 *://*.hezs88.com/*
+*://*.homedt.net/*
 *://*.hongshaocai.com/*
 *://*.hostzxw.com/*
 *://*.hotbak.net*
@@ -158,13 +176,17 @@ title/小.(百科|知识)网/
 *://*.jmvw.cn/*
 *://*.jsfengchao.com/*
 *://*.jssou.cc/*
+*://*.justinjeffrey.com/*
 *://*.jy135.com/*
 *://*.kergi.top/*
+*://*.kewenba.com/*
 *://*.kknews.cc/*
 *://*.knowmore.cc/*
 *://*.kuaisusou.cc/*
 *://*.kusearch.cc/*
 *://*.langningpiano.com/*
+*://*.ldkwi.top/*
+*://*.ldlgzs.com/*
 *://*.lefx.cc/*
 *://*.linksou.cc/*
 *://*.locks.wiki/*
@@ -173,6 +195,7 @@ title/小.(百科|知识)网/
 *://*.m.hljbwjf.com/*
 *://*.machbbs.com/*
 *://*.mincoon.com/*
+*://*.minimalathletics.com/*
 *://*.moe.am/*
 *://*.mofalin.com/*
 *://*.muzijie.com/*
@@ -187,12 +210,14 @@ title/小.(百科|知识)网/
 *://*.p3yk.com/*
 *://*.pachotel.com/*
 *://*.pai-hang-bang.com/*
+*://*.paperbert.com/*
 *://*.pc-daily.com/*
 *://*.pctantao.com/*
 *://*.penzai.com/*
 *://*.philwoods.me/*
 *://*.pianshen.com/*
 *://*.plate.wiki/*
+*://*.pn9y.com/*
 *://*.ppfocus.com/*
 *://*.programmer.group/*
 *://*.programminghunter.com/*
@@ -206,6 +231,7 @@ title/小.(百科|知识)网/
 *://*.qwbkw.com/*
 *://*.read01.com/*
 *://*.rechigroup.com/*
+*://*.rongyidagl.com/*
 *://*.runxinzhi.com/*
 *://*.rutrut.eu/*
 *://*.rxpnb.fun/*
@@ -213,12 +239,14 @@ title/小.(百科|知识)网/
 *://*.sf024.com/*
 *://*.shangmayuan.com/*
 *://*.shengqian001.com/*
+*://*.shenmedaquan.com/*
 *://*.shenmedouyou.xyz/*
 *://*.shoeku.com/*
 *://*.shuzhiduo.com/*
 *://*.sinabz.com/*
 *://*.softwarebrother.com/*
 *://*.soinside.com/*
+*://*.songketop.com/*
 *://*.sounote.cc/*
 *://*.spectrumsci.com/*
 *://*.stackask.cn/*
@@ -227,6 +255,7 @@ title/小.(百科|知识)网/
 *://*.sync-computers.com/*
 *://*.systemcity.cn/*
 *://*.syy79.com/*
+*://*.tee25.com/*
 *://*.thcc.cc/*
 *://*.thinbug.com/*
 *://*.tititi.cc/*
@@ -271,6 +300,8 @@ title/小.(百科|知识)网/
 *://*.xitongcheng.com/*
 *://*.xjqy.org/*
 *://*.yangmao.info/*
+*://*.yaowenming.com/*
+*://*.ydbaike.club/*
 *://*.yhbearing.net/*
 *://*.youfx.cc/*
 *://*.yousearch.cc/*
